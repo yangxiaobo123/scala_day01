@@ -1,4 +1,4 @@
-package com.yang
+package com.yang.test1
 
 object DefTest {
   def main(args: Array[String]): Unit = {

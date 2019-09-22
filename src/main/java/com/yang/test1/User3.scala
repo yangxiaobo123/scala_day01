@@ -1,4 +1,4 @@
-package com.yang
+package com.yang.test1
 
 abstract class User3(name: String) {
   def sleep(): Unit = {

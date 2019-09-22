@@ -1,4 +1,4 @@
-package com.yang
+package com.yang.test1
 
 class User4(name: String) extends User3(name: String) {
   override def eat(): Unit = {

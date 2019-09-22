@@ -1,4 +1,4 @@
-package com.yang
+package com.yang.test1
 
 class ScalaTest(var name: String) {
   var age: Int = _;

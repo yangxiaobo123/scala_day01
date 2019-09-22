@@ -1,4 +1,4 @@
-package com.yang
+package com.yang.test1
 
 class Bord(name: String) extends User3(name: String) with Fly {
   override def eat(): Unit = {

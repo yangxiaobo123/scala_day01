@@ -1,4 +1,4 @@
-package com.yang
+package com.yang.test1
 
 trait Fly {
   this: User3 =>

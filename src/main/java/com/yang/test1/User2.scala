@@ -1,4 +1,4 @@
-package com.yang
+package com.yang.test1
 
 class User2(var name: String) {
   self =>
